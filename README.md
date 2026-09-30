@@ -122,7 +122,8 @@ Evaluation suites for agent memory, split by interaction mode.
 
 ### Embodied & Game Environments
 
-- [AGENTVISTA: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios](https://arxiv.org/abs/2602.23166)  
+- [AGENTVISTA: Evaluating Multimodal Agents in Ultra-Challenging
+ Realistic Visual Scenarios](https://arxiv.org/abs/2602.23166)  
   *2026-02-26* · Junxian He, May Fung  
   `Benchmark` `Embodied`
 - [MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](https://arxiv.org/abs/2602.02465)  
@@ -255,15 +256,15 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
 
 ### Episodic Memory
 
+- [ZenBrain: A Neuroscience-Inspired 7-Layer Memory Architecture for Autonomous AI Systems](https://arxiv.org/abs/2604.23878)  
+  *2026-04-26* · Alexander Bering · [[code]](https://github.com/zensation-ai/zenbrain)  
+  `Method` `External` `Training-free` `Episodic` `Semantic` `Procedural`
 - [Gated Memory Policy](https://arxiv.org/abs/2604.18933)  
   *2026-04-21* · Shuran Song  
   `Method` `Internal` `RL-based` `Episodic`
 - [HiGMem: A Hierarchical and LLM-Guided Memory System for Long-Term Conversational Agents](https://arxiv.org/abs/2604.18349)  
   *2026-04-20*  
   `Method` `External` `Prompt-based` `Training-free` `Episodic` `Semantic`
-- [ZenBrain: A Neuroscience-Inspired 7-Layer Memory Architecture for Autonomous AI Systems](https://arxiv.org/abs/2604.23878)  
-  *2026-04-09* · Alexander Bering · [[code]](https://github.com/zensation-ai/zenbrain)  
-  `Method` `External` `Training-free` `Episodic` `Semantic` `Procedural`
 - [PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents](https://arxiv.org/abs/2603.03296)  
   *2026-02-23* · [[code]](https://github.com/TIMAN-group/PlugMem)  
   `Method` `External` `Prompt-based` `Training-free` `Episodic` `Semantic`
@@ -303,7 +304,8 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
 - [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)  
   *2025-04-28*  
   `Method` `External` `Prompt-based` `Episodic` `Semantic`
-- [R3Mem: Bridging Memory Retention and Retrieval via Reversible Compressio n](https://arxiv.org/abs/2502.15957)  
+- [R3Mem: Bridging Memory Retention and Retrieval via Reversible Compressio
+ n](https://arxiv.org/abs/2502.15957)  
   *2025-02-21*  
   `Method` `External` `Prompt-based` `Episodic`
 - [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)  
